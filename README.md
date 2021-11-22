@@ -5,4 +5,4 @@ Hi there 👋 How are you?
 - 👯 I’m looking to collaborate on React.
 - 🤔 I’m looking for help with React.
 - 📫 How to reach me: maglovskin@gmail.com
-- ⚡ Fun fact: I almost got there.
+- ⚡ Fun fact: I'm almost got there.
