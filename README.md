@@ -7,3 +7,6 @@
  - 🤔 I’m looking for help with React.
  - 📫 How to reach me: maglovskin@gmail.com
  - ⚡ Fun fact: I almost got there.
+
+
+![GitHub Status](https://github-readme-status.vercel.app/api username=maglovskiNenad &teheme=radica)
