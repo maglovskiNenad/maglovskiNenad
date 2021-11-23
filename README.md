@@ -9,4 +9,4 @@
  - ⚡ Fun fact: I almost got there.
 
 
-![GitHub Status](https://github-readme-status.vercel.app/api username=maglovskiNenad&teheme=radical)
+![GitHub Stats](https://github-readme-status.vercel.app/api username=maglovskiNenad&teheme=radical)
