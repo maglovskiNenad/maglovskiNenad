@@ -13,6 +13,6 @@
 
 
 ### Connect with me:
-<img align='left' to='maglovskin@gmial.com' alt='maglovskiNenad' width='30px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg'/>
+<img align='left' alt='maglovskiNenad' width='30px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg'/>
 
 <img align='left' alt='maglovskiNenad' width='30px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg'/>
