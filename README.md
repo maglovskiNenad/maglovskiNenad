@@ -23,6 +23,7 @@
 <br/>
 
 ### Connect with me:
+
 <img align='left' alt='maglovskiNenad' width='40px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567063035/noticon/hzdraiek2cwe52xhnvsg.svg'/>
 
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008602/noticon/ird3id54hstap8dtokdx.png'/>
@@ -32,6 +33,7 @@
 <br/>
 
 ### Languages and Tools:
+
 <img align='left' alt='Visual Studio Code' width='30p' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png'/>
 <img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png' />
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png' />
