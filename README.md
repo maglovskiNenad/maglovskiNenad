@@ -8,9 +8,19 @@
  - 📫 How to reach me: maglovskin@gmail.com
  - ⚡ Fun fact: I almost got there.
 
+<hr/>
+
+### <img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1632975522/noticon/gk5fxojzymsvw4pc71tf.png' /> My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maglovskiNenad&teheme=radical)
 
+<hr/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maglovskiNenad&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<hr/>
+
+<br/>
 
 ### Connect with me:
 <img align='left' alt='maglovskiNenad' width='40px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567063035/noticon/hzdraiek2cwe52xhnvsg.svg'/>
@@ -22,8 +32,7 @@
 <br/>
 
 ### Languages and Tools:
-<img align='left' alt='Visual Studio Code' width='30p' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png' />
-
+<img align='left' alt='Visual Studio Code' width='30p' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png'/>
 <img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png' />
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png' />
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1601427023/noticon/l6t6zqfacfgmeogmwmkl.png' />
@@ -39,3 +48,4 @@
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913958/noticon/uoqjdixts4lwsgtsa1pd.png' />
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png' />
 <img algin='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567062204/noticon/ttan57gjenhvcrfq10yo.png' />
+
