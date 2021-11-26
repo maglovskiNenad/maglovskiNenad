@@ -12,13 +12,13 @@
 
 ### <img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1632975522/noticon/gk5fxojzymsvw4pc71tf.png' /> My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maglovskiNenad&teheme=radical)
+<img align='centar' src='https://github-readme-streak-stats.herokuapp.com?user=maglovskiNenad&theme=merko&date_format=M%20j%5B%2C%20Y%5D'/>
 
 <hr/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maglovskiNenad&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img alt='maglovskiNenad' src='https://activity-graph.herokuapp.com/graph?username=maglovskiNenad&theme=dracula'/>
 
-<hr/>
+<hr />
 
 <br/>
 
@@ -48,4 +48,3 @@
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913958/noticon/uoqjdixts4lwsgtsa1pd.png' />
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png' />
 <img algin='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567062204/noticon/ttan57gjenhvcrfq10yo.png' />
-
