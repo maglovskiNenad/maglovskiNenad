@@ -35,18 +35,25 @@
 ### Languages and Tools:
 
 <img align='left' alt='Visual Studio Code' width='30p' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png'/>
-<img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1601427023/noticon/l6t6zqfacfgmeogmwmkl.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566911998/noticon/pgp6gfml2syj2xujx5qp.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128919/noticon/x1biuh4oxq2hpluqo8nu.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557264/noticon/eyhvbmh82nhdoydl4j2a.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002446/noticon/x0bmho1upr06k3vfcpmp.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567749614/noticon/zgdaxpaif5ojeduonygb.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613067760/noticon/kfgecapcc3zo9ob2djyl.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913958/noticon/uoqjdixts4lwsgtsa1pd.png' />
-<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png' />
-<img algin='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567062204/noticon/ttan57gjenhvcrfq10yo.png' />
+
+<img align='left' alt='html' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png' />
+
+<img align='left' alt='css' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png' />
+
+<img align='left' alt='css' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1601427023/noticon/l6t6zqfacfgmeogmwmkl.png' />
+
+<img align='left' alt='sass' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566911998/noticon/pgp6gfml2syj2xujx5qp.png' />
+
+<img align='left' alt='node' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557264/noticon/eyhvbmh82nhdoydl4j2a.png' />
+
+<img align='left' alt='react' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002446/noticon/x0bmho1upr06k3vfcpmp.png' />
+
+<img align='left' alt='js' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png' />
+
+<img align='left' alt='ts' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png' />
+
+<img align='left' alt='firebas' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913958/noticon/uoqjdixts4lwsgtsa1pd.png' />
+
+<img align='left' alt='mondodb' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png' />
+
+<img algin='left' alt='git' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567062204/noticon/ttan57gjenhvcrfq10yo.png' />
