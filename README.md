@@ -48,6 +48,8 @@
 
 <img align='left' alt='react' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002446/noticon/x0bmho1upr06k3vfcpmp.png' />
 
+<img align='left' alt='angular' width='35px' src='<img align='left' alt='react' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002446/noticon/x0bmho1upr06k3vfcpmp.png'/>
+
 <img align='left' alt='js' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png' />
 
 <img align='left' alt='ts' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png' />
