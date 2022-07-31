@@ -5,10 +5,6 @@
 
 ### <img align='left' alt='maglovskiNenad' width='30px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1632975522/noticon/gk5fxojzymsvw4pc71tf.png' /> My GitHub Stats:
 
-<img align='centar' src='https://github-readme-streak-stats.herokuapp.com?user=maglovskiNenad&theme=merko&date_format=M%20j%5B%2C%20Y%5D'/>
-
-<hr/>
-
 <img alt='maglovskiNenad' src='https://activity-graph.herokuapp.com/graph?username=maglovskiNenad&theme=dracula'/>
 
 <hr />
