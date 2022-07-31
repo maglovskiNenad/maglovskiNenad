@@ -42,7 +42,7 @@
 
 <img align='left' alt='css' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png' />
 
-<img align='left' alt='css' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1601427023/noticon/l6t6zqfacfgmeogmwmkl.png' />
+<img align='left' alt='bootstrap' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128495/noticon/gpkdob34yhkxoo7cyyqv.png' />
 
 <img align='left' alt='sass' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566911998/noticon/pgp6gfml2syj2xujx5qp.png' />
 
