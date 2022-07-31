@@ -24,6 +24,8 @@
 
 ### Connect with me:
 
+<img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png' />
+
 <img align='left' alt='maglovskiNenad' width='40px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567063035/noticon/hzdraiek2cwe52xhnvsg.svg'/>
 
 <img align='left' alt='maglovskiNenad' width='35px' src='https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008602/noticon/ird3id54hstap8dtokdx.png'/>
