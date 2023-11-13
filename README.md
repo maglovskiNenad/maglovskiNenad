@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="470" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif"/>
+
 ### Hi there i am Nenad Maglovski 👋
 
 <picture>
