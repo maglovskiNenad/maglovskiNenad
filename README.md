@@ -1,5 +1,5 @@
 # Nenad Maglovski  
-### Linux System Administration | Bash | Automation
+### Linux | Bash | Git | Ubuntu | Automation
 
 ---
 
