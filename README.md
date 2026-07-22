@@ -1,84 +1,67 @@
+                .--.
+               |o_o |
+               |:_/ |
+              //   \ \
+             (|     | )
+            /'\_   _/`\
+            \___)=(___/
 
-```bash
-Last login: 00:01:59 from github.com
+──────────────────────────────────────────────────────────────────────────────
 
-maglovskiNenad@shellpanda:~$ fastfetch
-```
+            .-/+oossssoo+/-.                 maglovskiNenad@shellpanda
+        `:+ssssssssssssssssss+:`             ───────────────────────────────
+      -+ssssssssssssssssssyyssss+-           OS: Ubuntu 24.04 LTS
+    .ossssssssssssssssssdMMMNysssso.         Kernel: Linux 6.8.0-63-generic
+   /ssssssssssshdmmNNmmyNMMMMhssssss/        Shell: bash
+  +ssssssssshmydMMMMMMMNddddyssssssss+       Editor: VS Code
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/      Role: Linux System Administrator
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.     Focus: Infrastructure & Automation
++sssshhhyNMMNyssssssssssssyNMMMysssssss+     Technologies: Docker • Bash • Git
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Languages: DE B2 • EN B2
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso     
 
 ```text
-──────────────────────────────────────────────────────────────────────────────
-
-OS:              Ubuntu 24.04 LTS
-Kernel:          6.8.0-63-generic
-Shell:           bash
-Editor:          VS Code
-
-Role:            Linux System Administrator
-Location:        Germany
 
 ──────────────────────────────────────────────────────────────────────────────
 
-Infrastructure
+• OS: ............................... Ubuntu 24.04 LTS
+• Kernel: ........................... Linux 6.8.0-63-generic
+• Shell: ............................ bash
+• Editor: ........................... VS Code
 
-Linux:           [ Fedora • Debian • Ubuntu ]
-Containers:      [ Docker ]
-Automation:      [ Bash • Python • Ansible ]
-Web Servers:     [ Nginx • Apache ]
-Virtualization:  [ KVM • VirtualBox ]
-Networking:      [ SSH • DNS • DHCP • VLAN ]
-Monitoring:      [ Prometheus • Grafana ]
-Cloud:           [ AWS / Azure / GCP ]
-Version Control: Git
+• Role: ............................. Linux System Administrator
+• Focus: ............................ Linux Infrastructure & Automation
 
-──────────────────────────────────────────────────────────────────────────────
+• Technologies.Linux: ............... Ubuntu, Debian, Fedora
+• Technologies.Container: ........... Docker
+• Technologies.Automation: .......... Bash, Python
+• Technologies.Web: ................. Nginx, Apache
+• Technologies.Virtualization: ...... KVM, VirtualBox
+• Technologies.Networking: .......... SSH, DNS, DHCP, VLAN
+• Technologies.Monitoring: .......... Prometheus, Grafana
+• Technologies.VersionControl: ...... Git
 
-Languages
+• Languages.Real: ................... Serbian, German (B2), English (B2)
+• Languages.Learning: ............... Italian
 
-🇷🇸 Serbian      Native
-🇩🇪 German       B2
-🇬🇧 English      B2
-
-──────────────────────────────────────────────────────────────────────────────
-
-Mission
-
-"Building reliable Linux infrastructure through automation,
-continuous learning and hands-on experience."
+• Current.Goal: ..................... LFCS Certification
+• Next.Goal: ........................ RHCSA
 
 ──────────────────────────────────────────────────────────────────────────────
 
-Contact
+─ Contact ────────────────────────────────────────────────────────────────────
 
-GitHub:      https://github.com/maglovskiNenad
-LinkedIn:    https://linkedin.com/in/
+• GitHub: ........................... github.com/maglovskiNenad
+• LinkedIn: ......................... linkedin.com/in/[USERNAME]
+• Website: .......................... maglovskinenad.github.io/nenad.github.io
+
+──────────────────────────────────────────────────────────────────────────────
+
+─ GitHub Stats ───────────────────────────────────────────────────────────────
+
+• Repositories: ..................... [AUTO]
+• Commits: .......................... [AUTO]
+• Followers: ........................ [AUTO]
+• Stars: ............................ [AUTO]
 ```
 
-
----
-
-## GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=maglovskiNenad&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
----
-
-
-
-🌐 Website: [maglovskiNenad](https://maglovskinenad.github.io/nenad.github.io/)
