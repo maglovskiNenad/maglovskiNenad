@@ -37,15 +37,12 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 • Languages.Real: ................... Serbian, German (B2), English (B2)
 • Languages.Learning: ............... Italian
 
-• Current.Goal: ..................... LFCS Certification
-• Next.Goal: ........................ RHCSA
-
 ──────────────────────────────────────────────────────────────────────────────
 
 ─ Contact ────────────────────────────────────────────────────────────────────
 
 • GitHub: ........................... github.com/maglovskiNenad
-• LinkedIn: ......................... linkedin.com/in/[USERNAME]
+• LinkedIn: ......................... linkedin.com/in/maglovskinenad
 • Website: .......................... maglovskinenad.github.io/nenad.github.io
 
 ──────────────────────────────────────────────────────────────────────────────
