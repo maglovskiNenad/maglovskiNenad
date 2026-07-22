@@ -8,15 +8,13 @@ maglovskiNenad@shellpanda:~$ fastfetch
 ```text
 ──────────────────────────────────────────────────────────────────────────────
 
-OS:              [ OPERATING SYSTEM ]
-Host:            [ COMPUTER / SERVER ]
-Kernel:          [ KERNEL VERSION ]
-Shell:           [ Bash / Zsh ]
-Editor:          [ VS Code / Neovim ]
+OS:              Ubuntu 24.04 LTS
+Kernel:          6.8.0-63-generic
+Shell:           bash
+Editor:          VS Code
 
 Role:            Linux System Administrator
 Location:        Germany
-Experience:      [ EXPERIENCE ]
 
 ──────────────────────────────────────────────────────────────────────────────
 
@@ -55,14 +53,6 @@ GitHub:      https://github.com/maglovskiNenad
 LinkedIn:    https://linkedin.com/in/
 ```
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maglovskiNenad&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maglovskiNenad&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -88,18 +78,6 @@ LinkedIn:    https://linkedin.com/in/
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
 ---
-
-## Current Roadmap
-
-```diff
-+ Linux Administration
-+ Bash Scripting
-+ Docker
-+ Git
-
-- Kubernetes
-- Terraform
-```
 
 
 
