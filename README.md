@@ -1,5 +1,5 @@
 
-# ```bash
+```bash
 Last login: 00:01:59 from github.com
 
 maglovskiNenad@shellpanda:~$ fastfetch
@@ -60,8 +60,8 @@ LinkedIn:    https://linkedin.com/in/
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maglovskiNenad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maglovskiNenad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ LinkedIn:    https://linkedin.com/in/
 ## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=[USERNAME]&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=maglovskiNenad&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,10 +96,6 @@ LinkedIn:    https://linkedin.com/in/
 + Bash Scripting
 + Docker
 + Git
-
-! LFCS (In Progress)
-
-# RHCSA (Next Goal)
 
 - Kubernetes
 - Terraform
