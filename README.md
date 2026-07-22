@@ -1,3 +1,5 @@
+```text
+
                 .--.
                |o_o |
                |:_/ |
@@ -15,12 +17,11 @@
    /ssssssssssshdmmNNmmyNMMMMhssssss/        Shell: bash
   +ssssssssshmydMMMMMMMNddddyssssssss+       Editor: VS Code
  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/      Role: Linux System Administrator
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.     Focus: Infrastructure & Automation
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+     Technologies: Docker • Bash • Git
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Languages: DE B2 • EN B2
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso     
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Focus: Infrastructure & Automation
+ +sssshhhyNMMNyssssssssssssyNMMMysssssss+    Technologies: Docker • Bash • Git
+ ossyNMMMNyMMhsssssssssssssshmmmhssssssso    Languages: DE B2 • EN B2
+ ossyNMMMNyMMhsssssssssssssshmmmhssssssso     
 
-```text
 
 ──────────────────────────────────────────────────────────────────────────────
 
