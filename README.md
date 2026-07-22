@@ -35,9 +35,6 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 • Technologies.VersionControl: ...... Git
 
 • Languages.Real: ................... Serbian, German (B2), English (B2)
-• Languages.Learning: ............... Italian
-
-──────────────────────────────────────────────────────────────────────────────
 
 ─ Contact ────────────────────────────────────────────────────────────────────
 
@@ -45,13 +42,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 • LinkedIn: ......................... linkedin.com/in/maglovskinenad
 • Website: .......................... maglovskinenad.github.io/nenad.github.io
 
-──────────────────────────────────────────────────────────────────────────────
-
-─ GitHub Stats ───────────────────────────────────────────────────────────────
-
-• Repositories: ..................... [AUTO]
-• Commits: .......................... [AUTO]
-• Followers: ........................ [AUTO]
-• Stars: ............................ [AUTO]
 ```
 
